@@ -20,8 +20,7 @@ They demonstrate **Object-Oriented Programming (OOP) concepts** and **user input
   - Smart Pointers (`std::unique_ptr` for memory safety)
 
 #### ▶️ Sample Output
-```
-```
+
 Buddy says: Woof!
 Whiskers says: Meow!
 ```
@@ -38,8 +37,7 @@ Whiskers says: Meow!
   - Basic data handling and printing
 
 #### ▶️ Sample Input/Output
-```
-```
+
 - Enter your first name: John
 - Enter your middle name: M
 - Enter your last name: Doe
@@ -83,10 +81,7 @@ java StudentInfo
 * 📱 Phone: +254 112876340
 * 🌐 GitHub: [King-luiz](https://github.com/King-luiz)
 
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** – feel free to use, modify, and distribute.
 
-```
