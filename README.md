@@ -21,10 +21,10 @@ They demonstrate **Object-Oriented Programming (OOP) concepts** and **user input
 
 #### ▶️ Sample Output
 ```
-
+```
 Buddy says: Woof!
 Whiskers says: Meow!
-
+```
 ```
 
 ---
@@ -39,21 +39,21 @@ Whiskers says: Meow!
 
 #### ▶️ Sample Input/Output
 ```
-
-Enter your first name: John
-Enter your middle name: M
-Enter your last name: Doe
-Enter your age: 20
-Enter your course: Computer Science
-Enter your school name: Bright Academy
+```
+- Enter your first name: John
+- Enter your middle name: M
+- Enter your last name: Doe
+- Enter your age: 20
+- Enter your course: Computer Science
+- Enter your school name: Bright Academy
 
 \--- Student Information ---
-Full Name: John M Doe
-Age: 20
-Course: Computer Science
-School: Bright Academy
-Programed by luiz
-
+- Full Name: John M Doe
+- Age: 20
+- Course: Computer Science
+- School: Bright Academy
+- Programed by luiz
+```
 ````
 
 ---
